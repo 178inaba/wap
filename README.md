@@ -5,7 +5,8 @@ wap is the abbreviation of "what about progress?".
 ## run
 
 ```bash
-$ cd example
+$ go get -u -v github.com/178inaba/wap
+$ cd $GOPATH/src/github.com/178inaba/wap/example
 $ go run main.go
 ```
 
